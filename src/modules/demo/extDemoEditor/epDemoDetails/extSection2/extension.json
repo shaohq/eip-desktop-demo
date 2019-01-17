@@ -1,0 +1,8 @@
+{
+  "vueName": "Section2",
+  "plugToExtensionPoint": "/modules/demo/extDemoEditor/epDemoDetails",
+  "paramsToParentExtensionPoint": {
+    "title": "详情2"
+  },
+  "childExtensionPoints": []
+}

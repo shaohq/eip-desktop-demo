@@ -1,0 +1,10 @@
+{
+  "vueName": "WelcomeList",
+  "plugToExtensionPoint": "eip-desktop-base:/epWorkbench/extDefaultWorkbench/epList",
+  "paramsToParentExtensionPoint": [{
+    "label": "WelcomeList",
+    "displaySequence": 5,
+    "category": "OPERATION_Category"
+  }],
+  "childExtensionPoints": []
+}

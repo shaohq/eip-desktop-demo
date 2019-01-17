@@ -1,0 +1,11 @@
+{
+  "categories": {
+    "OPERATION_Category": "我是专员",
+    "HOTEL_BD_Category": "我是酒店 BD",
+    "ACTIONS_Category": "全局操作"
+  },
+  "defaultListExt": {
+    "scope": "app",
+    "name": "/welcome/extWelcomeList/WelcomeList"
+  }
+}

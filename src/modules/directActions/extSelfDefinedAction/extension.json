@@ -1,0 +1,11 @@
+{
+  "vueName": "SelfDefinedAction",
+  "plugToExtensionPoint": "eip-desktop-base:/epWorkbench/extDefaultWorkbench/epList",
+  "paramsToParentExtensionPoint": [{
+    "label": "自定义操作",
+    "displaySequence": 5,
+    "category": "OPERATION_Category",
+    "isExecute": true
+  }],
+  "childExtensionPoints": []
+}

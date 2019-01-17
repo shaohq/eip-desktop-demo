@@ -1,0 +1,6 @@
+{
+  "vueName": "DemoEditor",
+  "plugToExtensionPoint": "eip-desktop-base:/epWorkbench/extDefaultWorkbench/epEditor",
+  "paramsToParentExtensionPoint": {},
+  "childExtensionPoints": ["epDemoDetails"]
+}

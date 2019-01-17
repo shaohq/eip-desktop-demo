@@ -1,0 +1,8 @@
+{
+  "vueName": "Login",
+  "plugToExtensionPoint": "/login",
+  "paramsToParentExtensionPoint": {
+    "abc": "def"
+  },
+  "childExtensionPoints": []
+}

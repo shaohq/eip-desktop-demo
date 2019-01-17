@@ -1,0 +1,10 @@
+{
+  "vueName": "DemoList",
+  "plugToExtensionPoint": "eip-desktop-base:/epWorkbench/extDefaultWorkbench/epList",
+  "paramsToParentExtensionPoint": [{
+    "label": "Demo",
+    "displaySequence": 420,
+    "category": "HOTEL_BD_Category"
+  }],
+  "childExtensionPoints": []
+}

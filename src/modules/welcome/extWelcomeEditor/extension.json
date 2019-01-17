@@ -1,0 +1,6 @@
+{
+  "vueName": "WelcomeEditor",
+  "plugToExtensionPoint": "eip-desktop-base:/epWorkbench/extDefaultWorkbench/epEditor",
+  "paramsToParentExtensionPoint": {},
+  "childExtensionPoints": []
+}

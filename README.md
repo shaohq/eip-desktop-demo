@@ -1,29 +1,16 @@
 # eip-mobile-base
 
-## Project setup
+## 安装依赖包
 ```
 npm install
 ```
 
-### Compiles and hot-reloads for development
+### 开发环境（编译及热部署）
 ```
 npm run serve
 ```
 
-### Compiles and minifies for production
+### 编译
 ```
 npm run build
 ```
-
-### Run your tests
-```
-npm run test
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
