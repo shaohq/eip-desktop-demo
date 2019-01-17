@@ -33,6 +33,6 @@
     "vue-timeago": "^5.0.0",
     "vue2-animate": "^2.1.0",
     "eip-common-kernel": "^0.2.18",
-    "eip-desktop-base": "^0.2.18"
+    "eip-desktop-base": "file:../eip-desktop-base"
   }
 }
