@@ -1,6 +1,6 @@
 {
   "name": "eip-desktop-demo",
-  "version": "0.2.18",
+  "version": "0.2.20",
   "private": true,
   "scripts": {
     "serve": "vue-cli-service serve --open",
@@ -32,7 +32,7 @@
     "vue-ripple-directive": "^2.0.1",
     "vue-timeago": "^5.0.0",
     "vue2-animate": "^2.1.0",
-    "eip-common-kernel": "^0.2.18",
-    "eip-desktop-base": "file:../eip-desktop-base"
+    "eip-common-kernel": "^0.2.20",
+    "eip-desktop-base": "^0.2.20"
   }
 }
