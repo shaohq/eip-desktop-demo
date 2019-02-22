@@ -1,5 +1,9 @@
 # eip-mobile-base
 
+## Live Demo
+
+http://39.96.45.99:8111/
+
 ## 安装依赖包
 ```
 npm install
